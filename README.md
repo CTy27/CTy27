@@ -9,18 +9,18 @@
 
 - 🤝 I’m looking for professional opportunities in engineering and data analytics
 
-- 👨‍💻 All of my projects are available at [https://github.com/CTy27](https://github.com/CTy27)
+- 👨‍💻 All of my projects are available on my github [here](https://github.com/CTy27)
 
-- 📝 I recently started writing articles on [https://medium.com/@ty.cymbalista](https://medium.com/@ty.cymbalista)
+- 📝 I recently started writing articles on medium, check them out [here!](https://medium.com/@ty.cymbalista)
 
-- 💬 Ask me about nuclear energy, baseball and my current reads!
+- 💬 Ask me about travel, nuclear energy, baseball and my current reads!
 
 - 📫 How to reach me **ty.cymbalista@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-jSOF0eqNZBatYS2Qrav60uBzeKgVwsK/view?usp=drive_link)
+- 📄 You can find my resume with most of my experiences [here!](https://drive.google.com/file/d/1-jSOF0eqNZBatYS2Qrav60uBzeKgVwsK/view?usp=drive_link)
 
-- ⚡ Fun fact **I love to travel! I have been to 10 Countries and am hoping to visit many more!**
-
+- ⚡ Fun fact: I love to travel! I have been to 10 Countries and am hoping to visit many more!
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/cvmba23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/cvmba23" height="30" width="40" /></a>
