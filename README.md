@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ty.cymbalista@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1-jSOF0eqNZBatYS2Qrav60uBzeKgVwsK/view?usp=drive_link)]((insert resume Link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-jSOF0eqNZBatYS2Qrav60uBzeKgVwsK/view?usp=drive_link](here)
 
 - ⚡ Fun fact **I love to travel! I have been to 10 Countries and am hoping to visit many more!**
 
