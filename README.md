@@ -3,23 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cty27&label=Profile%20views&color=0e75b6&style=flat" alt="cty27" /> </p>
 
-- 🔭 I’m currently working on [TBD]((insert Link here))
+- 🔭 I’m currently working on a Predictive model using LSTMs to predict pitch sequences thrown by MLB pitchers
 
-- 🌱 I’m currently learning **Google Data Analytics Certificate, Microsoft Certified: PowerBI Data Analyst Associate **
+- 🌱 I’m currently working towards the Google Data Analytics Certificate (6/8 Courses Completed - Oct 2, 2023) 
 
-- 👯 I’m looking to collaborate on [TBD]((insert Link here))
-
-- 🤝 I’m looking for help with [opportunities in engineering and data analytics]((link if needed))
+- 🤝 I’m looking for professional opportunities in engineering and data analytics
 
 - 👨‍💻 All of my projects are available at [https://github.com/CTy27](https://github.com/CTy27)
 
-- 📝 I regularly write articles on [(insert Blog link)]((insert Blog link))
+- 📝 I recently started writing articles on [https://medium.com/@ty.cymbalista](https://medium.com/@ty.cymbalista)
 
-- 💬 Ask me about **python, baseball,**
+- 💬 Ask me about nuclear energy, baseball and my current reads!
 
 - 📫 How to reach me **ty.cymbalista@gmail.com**
 
-- 📄 Know about my experiences [(insert resume Link)]((insert resume Link))
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1-jSOF0eqNZBatYS2Qrav60uBzeKgVwsK/view?usp=drive_link)]((insert resume Link))
 
 - ⚡ Fun fact **I love to travel! I have been to 10 Countries and am hoping to visit many more!**
 
