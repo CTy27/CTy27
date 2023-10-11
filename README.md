@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ty</h1>
-<h3 align="center">A passionate Electrical Engineering Grad from Canada</h3>
+<h3 align="center">Electrical Engineering New Grad from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cty27&label=Profile%20views&color=0e75b6&style=flat" alt="cty27" /> </p>
 
