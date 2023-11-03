@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a Predictive model using LSTMs to predict pitch sequences thrown by MLB pitchers
 
-- 🌱 I’m currently working towards the Google Data Analytics Certificate (6/8 Courses Completed - Oct 2, 2023) 
+- 🌱 I recently completed the Google Data Analytics Certificate (Nov 1, 2023) 
 
 - 🤝 I’m looking for professional opportunities in engineering and data analytics
 
